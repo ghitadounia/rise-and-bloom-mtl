@@ -121,16 +121,17 @@ nav {
   -webkit-backdrop-filter: blur(14px);
   border-bottom: 1px solid rgba(212,160,181,0.14);
   transition: box-shadow 0.3s ease;
-  overflow: hidden;
 }
 .nav-inner {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 14px 24px;
+  padding: 0 24px;
+  height: 68px;
   max-width: 1100px;
   margin: 0 auto;
   flex-wrap: nowrap;
+  overflow: hidden;
   gap: 16px;
 }
 .nav-links {
