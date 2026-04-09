@@ -28,7 +28,7 @@ Rise and Bloom MTL/
 
 ## Live Site
 
-🌐 **[riseandbloom.mtl → GitHub Pages](https://gdoun054.github.io/rise-and-bloom-mtl/)**
+🌐 **🌸 **[ghitadounia.github.io/rise-and-bloom-mtl/](https://ghitadounia.github.io/rise-and-bloom-mtl/)****
 
 ---
 
