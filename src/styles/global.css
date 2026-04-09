@@ -132,9 +132,11 @@ nav {
 .nav-links {
   display: flex;
   align-items: center;
-  gap: 28px;
+  gap: 22px;
   list-style: none;
+  flex-wrap: nowrap;
 }
+.nav-links a { white-space: nowrap; }
 .nav-links a {
   font-size: 0.88rem;
   font-weight: 400;

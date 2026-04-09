@@ -27,8 +27,8 @@ export default function Navbar() {
           <li><a href="#intervenantes">Intervenantes</a></li>
           <li><a href="#communaute">Communauté</a></li>
           <li><a href="#contact">Contact</a></li>
-          <li><a href="#communaute" className="nav-cta">Rejoindre · Join</a></li>
         </ul>
+        <a href="#communaute" className="nav-cta">Rejoindre · Join</a>
 
         <button
           className={`hamburger${menuOpen ? ' active' : ''}`}
