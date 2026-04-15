@@ -46,7 +46,7 @@ export default function Contact() {
 
             <div className="contact-detail">
               <span className="c-dot" aria-hidden="true" />
-              <span>hello@riseandbloom.ca</span>
+              <span>hello@riseandbloommtl.ca</span>
             </div>
             <div className="contact-detail">
               <span className="c-dot" style={{ backgroundColor: 'var(--jade-mint)' }} aria-hidden="true" />

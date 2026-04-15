@@ -114,7 +114,7 @@ main branch
 
 ## Contact
 
-📧 hello@riseandbloom.ca
+📧 hello@riseandbloommtl.ca
 📸 [@riseandbloom.mtl](https://instagram.com/riseandbloom.mtl)
 🎵 [@riseandbloom.mtl](https://tiktok.com/@riseandbloom.mtl)
 
