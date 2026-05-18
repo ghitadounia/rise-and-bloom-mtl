@@ -34,7 +34,7 @@ export default function Contact() {
   return (
     <section id="contact">
       <div className="container">
-        <div className="contact-grid">
+       @ <div className="contact-grid">
 
           {/* Info */}
           <div className="contact-info fade-in">
@@ -46,7 +46,7 @@ export default function Contact() {
 
             <div className="contact-detail">
               <span className="c-dot" aria-hidden="true" />
-              <span>hello@riseandbloommtl.ca</span>
+              <span>hello@riseandbloommtl.com</span>
             </div>
             <div className="contact-detail">
               <span className="c-dot" style={{ backgroundColor: 'var(--jade-mint)' }} aria-hidden="true" />

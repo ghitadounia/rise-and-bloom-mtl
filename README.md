@@ -28,7 +28,7 @@ Rise and Bloom MTL/
 
 ## Live Site
 
-🌐 **🌸 **https://ghitadounia.github.io/rise-and-bloom-mtl/
+🌐 **🌸 **https://riseandbloommtl.com/
 ****
 
 ---
@@ -114,7 +114,7 @@ main branch
 
 ## Contact
 
-📧 hello@riseandbloommtl.ca
+📧 hello@riseandbloommtl.com
 📸 [@riseandbloom.mtl](https://instagram.com/riseandbloom.mtl)
 🎵 [@riseandbloom.mtl](https://tiktok.com/@riseandbloom.mtl)
 

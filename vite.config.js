@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/rise-and-bloom-mtl/',
+  base: '/',
   build: {
     outDir: 'docs',
     emptyOutDir: true,
